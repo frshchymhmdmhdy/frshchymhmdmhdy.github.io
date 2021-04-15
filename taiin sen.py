@@ -1,5 +1,5 @@
 # mind that this program thinks that you where born at 00:00:00 
-# 
+# this app is based on the Gregorian calender
 print("salam ")
 name= input("esm khod ra benevisid"":")
 print("khosh amadi",name)
